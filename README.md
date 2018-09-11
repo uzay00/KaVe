@@ -18,10 +18,17 @@ Bazı öğrencilerimizin projeleri, akademik makalelere dönüştürüldü ve ul
 
 
 # Başvuru Koşulları
-## Katılımcılardan Beklentilerimiz
-__Devam Gerekliliği__ Bilindiği gibi yapay zeka herkesin merakını cezbeden ama ciddi emek göstermeyen hiç kimsenin başarı elde edemeyeceği bir konudur.  Katılımcılardan ricamız, eğer kendinizde uzun soluklu ve emek isteyen bir araştırma sürecini yürütecek gücü göremiyorsanız bu eğitime __başvurmayınız__.
+__Eğitim yeri ve zamanı__ Eğitim Sarıyer Belediyesi Yaşar Kemal Kültür Merkezi’nde perşembe günleri saat 16:30 - 20:00 arasında gerçekleşecektir. Katılımcıların 16 haftalık eğitimin tümüne katılmaları gerekmektedir. __Eğitim ücretsizdir__.
 
-__Programlama Bilgisi Gerekliliği__  Python dili ile programlama daha önce yapmamış olabilirsiniz. Sizden bu konuda kendinizi geliştirmenizi bekliyoruz. Eğer Python öğrenmek için emek vermeyecekseniz, bu eğitime __ başvurmayınız__. Unutmayınız ki, bu bir programlamaya giriş eğitimi değil, proje odaklı bir yapay zeka eğitimidir. Eğitime gelmeden önce, bilgisayarınıza  [Anaconda](https://www.anaconda.com/distribution/) dağıtımını yükleyiniz. Böylece tüm gereken python paketleri bilgisayarınıza otomatik olarak yüklenecektir. (Eğer paketleri tek tek kendiniz yüklemek isterseniz,[Python](https://www.python.org/downloads/windows/) ve [Jupyter Notebok](http://jupyter.readthedocs.io/en/latest/install.html#alternative-for-experienced-python-users-installing-jupyter-with-pip) 
+## Anket
+Aşağıdaki ankette sizden bazı bilgilerinizi girmenizi isteyeceğiz, proje önerinizi ve bu eğitime katılmak için motivasyonunuzun ne olduğunu soracağız. Ama öncelikle size soracağımız yapay zeka ile ilgili 10 basit sorudan en az üçünü cevaplamanızı isteyeceğiz. Cevaplarınızı pdf halinde yüklemenizi rica edeceğiz. Hazırsanız, anketimizi doldurmaya başlayablirsiniz.
+ - [Anketi doldurunuz.](https://goo.gl/forms/mAt2dMdPGgXESYun2)	
+							
+										
+## Katılımcılardan Beklentilerimiz
+__Devam Gerekliliği__ Bilindiği gibi yapay zeka herkesin merakını cezbeden ama ciddi emek göstermeyen hiç kimsenin başarı elde edemeyeceği bir konudur.  Katılımcılardan ricamız, eğer kendinizde uzun soluklu ve emek isteyen bir araştırma sürecini yürütecek gücü göremiyorsanız bu eğitime __başvurmayınız__ .
+
+__Programlama Bilgisi Gerekliliği__  Python dili ile programlama daha önce yapmamış olabilirsiniz. Sizden bu konuda kendinizi geliştirmenizi bekliyoruz. Eğer Python öğrenmek için emek vermeyecekseniz, bu eğitime __ başvurmayınız__. Unutmayınız ki, bu bir programlamaya giriş eğitimi değil, proje odaklı bir yapay zeka eğitimidir. Eğitime gelmeden önce, bilgisayarınıza  [Anaconda](https://www.anaconda.com/distribution/) dağıtımını yükleyiniz. Böylece tüm gereken python paketleri bilgisayarınıza otomatik olarak yüklenecektir. (Eğer paketleri tek tek kendiniz yüklemek isterseniz, [Python](https://www.python.org/downloads/windows/) ve [Jupyter Notebok](http://jupyter.readthedocs.io/en/latest/install.html#alternative-for-experienced-python-users-installing-jupyter-with-pip) 
 ve Numpy, SciPy, Scikit-learn, Pandas, Matplotlib, NetworkX ve NLTK paketlerini yükleyiniz.)
 
 
