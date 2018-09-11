@@ -31,5 +31,3 @@ __Devam Gerekliliği__ Bilindiği gibi yapay zeka herkesin merakını cezbeden a
 __Programlama Bilgisi Gerekliliği__  Python dili ile programlama daha önce yapmamış olabilirsiniz. Sizden bu konuda kendinizi geliştirmenizi bekliyoruz. Eğer Python öğrenmek için emek vermeyecekseniz, bu eğitime __ başvurmayınız__. Unutmayınız ki, bu bir programlamaya giriş eğitimi değil, proje odaklı bir yapay zeka eğitimidir. Eğitime gelmeden önce, bilgisayarınıza  [Anaconda](https://www.anaconda.com/distribution/) dağıtımını yükleyiniz. Böylece tüm gereken python paketleri bilgisayarınıza otomatik olarak yüklenecektir. (Eğer paketleri tek tek kendiniz yüklemek isterseniz, [Python](https://www.python.org/downloads/windows/) ve [Jupyter Notebok](http://jupyter.readthedocs.io/en/latest/install.html#alternative-for-experienced-python-users-installing-jupyter-with-pip) 
 ve Numpy, SciPy, Scikit-learn, Pandas, Matplotlib, NetworkX ve NLTK paketlerini yükleyiniz.)
 
-
-![](2018/images/2.png)
