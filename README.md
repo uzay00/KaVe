@@ -1,13 +1,3 @@
-![](2018/images/1.png)
-<BR><BR><BR><BR>
-![](2018/images/3.png)
- <BR><BR>
-![](2018/images/4.png)
-<BR><BR>
-![](2018/images/2.png)
-
----
-
 # Proje Odaklı Yapay Zeka Eğitimi
 
 __Eğitimin Amacı__ Çağın bilim ve teknolojisine yön verebilecek, çok boyutlu ve disiplinler arası düşünebilen gençlere ve bu gençleri yetiştirecek proje odaklı bir eğitim modeline ihtiyacımız var. 
@@ -21,7 +11,11 @@ __Başarılar ve Hedefler__
 Bazı öğrencilerimizin projeleri, akademik makalelere dönüştürüldü ve uluslararası akademik konferanslardan kabul aldı. Bazı öğrencilerimiz çeşitli etkinliklerde yaptıkları sunumlar nedeniyle iş ve staj teklif aldılar. Bu eğitimde de, hedefimiz öğrencilerin kendi projelerini hayata geçirebilmeleridir.
  
 
-# Eğitim İçeriği							
+# Eğitim Programı							
 ![](2018/images/3.png)
  <BR><BR>
 ![](2018/images/4.png)	
+
+
+# Başvuru Koşulları
+![](2018/images/2.png)
