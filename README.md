@@ -1,3 +1,5 @@
+![](2018/images/duyuru.png)
+
 # Proje Odaklı Yapay Zeka Eğitimi
 
 __Eğitimin Amacı__ Çağın bilim ve teknolojisine yön verebilecek, çok boyutlu ve disiplinler arası düşünebilen gençlere ve bu gençleri yetiştirecek proje odaklı bir eğitim modeline ihtiyacımız var. 
