@@ -18,9 +18,10 @@ Bu vizyon doğrultusunda,	2017 yılından beri [Sarıyer Akademi](http://sariyer
 Bu eğitimlerde lise ve üniversite öğrencileri hatta mezunlar ile lisansüstü öğrencileri yan yana proje geliştrdi ve eğitime devam eden herkes birbirinden çok şey öğrendi. 
 
 __Başarılar ve Hedefler__
-Bazı öğrencilerimizin projeleri, akademik makalelere dönüştürüldü ve uluslararası akademik konferanslardan kabul aldı.Bazı öğrencilerimiz çeşitli etkinliklerde yaptıkları sunumlar nedeniyle iş ve staj teklif aldılar. Bu eğitimde de, hedefimiz öğrencilerin kendi projelerini hayata geçirebilmeleridir.
+Bazı öğrencilerimizin projeleri, akademik makalelere dönüştürüldü ve uluslararası akademik konferanslardan kabul aldı. Bazı öğrencilerimiz çeşitli etkinliklerde yaptıkları sunumlar nedeniyle iş ve staj teklif aldılar. Bu eğitimde de, hedefimiz öğrencilerin kendi projelerini hayata geçirebilmeleridir.
  
 
-										
-
-	
+# Eğitim İçeriği							
+![](2018/images/3.png)
+ <BR><BR>
+![](2018/images/4.png)	
