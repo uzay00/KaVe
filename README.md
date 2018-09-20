@@ -22,9 +22,9 @@ Bazı öğrencilerimizin projeleri, akademik makalelere dönüştürüldü ve ul
 # Başvuru Koşulları
 __Eğitim yeri ve zamanı__ Eğitim Sarıyer Belediyesi Yaşar Kemal Kültür Merkezi’nde perşembe günleri saat 16:30 - 20:00 arasında gerçekleşecektir. Katılımcıların 16 haftalık eğitimin tümüne katılmaları gerekmektedir. __Eğitim ücretsizdir__.
 
-## Anket
-Aşağıdaki ankette sizden bazı bilgilerinizi girmenizi isteyeceğiz, proje önerinizi ve bu eğitime katılmak için motivasyonunuzun ne olduğunu soracağız. Ama öncelikle size soracağımız yapay zeka ile ilgili 10 basit sorudan en az üçünü cevaplamanızı isteyeceğiz. Cevaplarınızı pdf halinde yüklemenizi rica edeceğiz. Hazırsanız, anketimizi doldurmaya başlayablirsiniz.
- - [Anketi doldurunuz.](https://goo.gl/forms/mAt2dMdPGgXESYun2)	
+## Anket ve Seçme Sınav Soruları
+Aşağıdaki ankette sizden bazı bilgilerinizi girmenizi isteyeceğiz, proje önerinizi ve bu eğitime katılmak için motivasyonunuzun ne olduğunu soracağız. Ama öncelikle size soracağımız yapay zeka ile ilgili 8 basit soruyu cevaplamanızı isteyeceğiz. Cevaplarınızı jupyter notebook, pdf ya da word halinde yüklemenizi rica edeceğiz. Hazırsanız, anketimizi doldurmaya başlayablirsiniz.
+ - [Anketi doldurunuz.](https://goo.gl/forms/fCGBE7YtxE2cmFcu2)	
 							
 										
 ## Katılımcılardan Beklentilerimiz
