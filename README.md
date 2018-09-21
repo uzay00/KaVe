@@ -7,8 +7,6 @@ Aşağıdaki ankette sizden bazı bilgilerinizi girmenizi isteyeceğiz, proje ö
 ___ 
 	
 ![](2018/images/duyuru.png)
-
-<BR>
 	
 ___
 	
