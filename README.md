@@ -9,8 +9,10 @@ ___
 ![](2018/images/duyuru.png)
 
 <BR>
+	
 ___
 	
+
 <BR>
 	
 # Proje Odaklı Yapay Zeka Eğitimi
