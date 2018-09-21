@@ -11,7 +11,6 @@ ___
 ___
 	
 
-<BR>
 	
 # Proje Odaklı Yapay Zeka Eğitimi
 
