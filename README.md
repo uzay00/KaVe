@@ -1,3 +1,7 @@
+# Başvuru
+Aşağıdaki ankette sizden bazı bilgilerinizi girmenizi isteyeceğiz, proje önerinizi ve bu eğitime katılmak için motivasyonunuzun ne olduğunu soracağız. Ama öncelikle size soracağımız yapay zeka ile ilgili 8 basit soruyu cevaplamanızı isteyeceğiz. Cevaplarınızı jupyter notebook, pdf ya da word halinde yüklemenizi rica edeceğiz. Hazırsanız, aşağıdaki linkten anketimizi doldurmaya başlayablirsiniz.
+ - [Anket ve Seçme Sınav Soruları](https://goo.gl/forms/fCGBE7YtxE2cmFcu2)	
+ 
 ![](2018/images/duyuru.png)
 
 # Proje Odaklı Yapay Zeka Eğitimi
