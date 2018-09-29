@@ -1,5 +1,17 @@
-![](2018/images/duyuru.png)
+# Başvuru
+Aşağıdaki ankette sizden bazı bilgilerinizi girmenizi isteyeceğiz, proje önerinizi ve bu eğitime katılmak için motivasyonunuzun ne olduğunu soracağız. Ama öncelikle size soracağımız yapay zeka ile ilgili 8 basit soruyu cevaplamanızı isteyeceğiz. Cevaplarınızı jupyter notebook, pdf ya da word halinde yüklemenizi rica edeceğiz. Hazırsanız, aşağıdaki linkten anketimizi doldurmaya başlayablirsiniz.
+ - [Başvuru](https://goo.gl/forms/fCGBE7YtxE2cmFcu2) (Anket ve Seçme Sınav Soruları)	
 
+<BR>
+
+___ 
+	
+![](2018/images/duyuru.png)
+	
+___
+	
+
+	
 # Proje Odaklı Yapay Zeka Eğitimi
 
 __Eğitimin Amacı__ Çağın bilim ve teknolojisine yön verebilecek, çok boyutlu ve disiplinler arası düşünebilen gençlere ve bu gençleri yetiştirecek proje odaklı bir eğitim modeline ihtiyacımız var. 
@@ -24,7 +36,7 @@ __Eğitim yeri ve zamanı__ Eğitim Sarıyer Belediyesi Yaşar Kemal Kültür Me
 
 ## Anket ve Seçme Sınav Soruları
 Aşağıdaki ankette sizden bazı bilgilerinizi girmenizi isteyeceğiz, proje önerinizi ve bu eğitime katılmak için motivasyonunuzun ne olduğunu soracağız. Ama öncelikle size soracağımız yapay zeka ile ilgili 8 basit soruyu cevaplamanızı isteyeceğiz. Cevaplarınızı jupyter notebook, pdf ya da word halinde yüklemenizi rica edeceğiz. Hazırsanız, aşağıdaki linkten anketimizi doldurmaya başlayablirsiniz.
- - [Anket ve Seçme Sınav Soruları](https://goo.gl/forms/fCGBE7YtxE2cmFcu2)	
+ - [Başvuru](https://goo.gl/forms/fCGBE7YtxE2cmFcu2) (Anket ve Seçme Sınav Soruları)	
 							
 										
 ## Katılımcılardan Beklentilerimiz
